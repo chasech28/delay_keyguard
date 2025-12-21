@@ -1,6 +1,6 @@
-id=delay_keyguard
-name=Delay Keyguard
+id=delay_boot
+name=Delay Boot Screen
 version=1.0
 versionCode=1
-author=YourName
-description=Delay keyguard display by 1 minute after boot.
+author=CAN
+description=Delay system UI show for 60 seconds on boot
